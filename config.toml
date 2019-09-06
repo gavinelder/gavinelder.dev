@@ -1,0 +1,14 @@
+baseURL = "https://gavinelder.dev/"
+languageCode = "en-us"
+title = "Random Musings "
+theme = "m10c"
+
+[params]
+  author = "Gavin Elder"
+  description = "Random items"
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/gavinelder"
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/gavelder"
