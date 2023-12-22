@@ -1,12 +1,14 @@
 baseURL = "https://gavinelder.dev/"
 languageCode = "en-us"
-title = "Random Musings "
+title = "Random Musings"
 theme = "m10c"
 publishDir = "docs"
 
 [params]
   author = "Gavin Elder"
-  description = "Random items"
+  description = "Security Engineer, Ops enthusiast, Scottish."
+  #avatar = "images/avatar.jpg"
+
 [[params.social]]
   icon = "github"
   name = "github"
@@ -15,3 +17,7 @@ publishDir = "docs"
   icon = "twitter"
   name = "twitter"
   url = "https://twitter.com/gavelder"
+[[params.social]]
+  icon = "linkedin"
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/gavinelder/"
