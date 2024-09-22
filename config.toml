@@ -2,7 +2,6 @@ baseURL = "https://gavinelder.dev/"
 languageCode = "en-us"
 title = "Random Musings"
 theme = "m10c"
-publishDir = "docs"
 
 [params]
   author = "Gavin Elder"
